@@ -1,1 +1,1 @@
-<a href="https://app.daily.dev/kaleembhatti"><img src="https://api.daily.dev/devcards/v2/d3WbOSWuIU31W8e1v65GQ.png?type=wide&r=diz" width="652" alt="Kaleem Bhatti's Dev Card"/></a>
+<a href="https://app.daily.dev/kaleembhatti"><img src="./devcard.png" width="652" alt="Kaleem Bhatti's Dev Card"/></a>
