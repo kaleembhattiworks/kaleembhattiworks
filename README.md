@@ -1,6 +1,6 @@
 # Hello World
 
-Junior developer experienced in nextjs / react with around 2 years of experience. 
+Junior fullstack developer experienced in nextjs / react with around 2 years of experience. 
 
 Lazy. Egoistical. Critcal Thinker
 
